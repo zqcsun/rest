@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #e5e7eb;
+    margin: 0;
+}
+
+header {
+    background: #020617;
+    padding: 10px 20px;
+}
+
+header a {
+    color: #38bdf8;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.post {
+    background: #020617;
+    padding: 15px;
+    border-radius: 8px;
+}
